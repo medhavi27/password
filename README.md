@@ -1,2 +1,6 @@
 # password
-figuring out a random password generator- loosely based on geeks for geeks project (the idea of using random) credit: https://www.geeksforgeeks.org/generating-password-otp-java/
+
+Trying to figure out a random password generator
+
+Credit:
+https://www.geeksforgeeks.org/generating-password-otp-java/
